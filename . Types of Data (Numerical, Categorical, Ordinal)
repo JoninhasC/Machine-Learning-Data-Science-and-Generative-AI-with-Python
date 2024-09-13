@@ -1,0 +1,18 @@
+Os tipos de dados podem ser classificados em diferentes categorias com base em suas características. As três principais são **Numéricos**, **Categóricos** e **Ordinais**:
+
+### 1. **Dados Numéricos**
+Os dados numéricos representam números e podem ser usados em operações aritméticas. Eles são divididos em:
+- **Dados discretos**: Consistem em números inteiros ou contagens (por exemplo, número de alunos, número de carros).
+- **Dados contínuos**: Podem assumir qualquer valor dentro de um intervalo (por exemplo, altura, peso, temperatura).
+
+### 2. **Dados Categóricos**
+Os dados categóricos representam rótulos ou nomes que dividem os dados em grupos distintos. Geralmente são não numéricos e incluem:
+- **Dados nominais**: Categorias sem uma ordem específica (por exemplo, gênero, cor dos olhos, país).
+- **Dados binários**: Um tipo especial de dados categóricos com apenas dois resultados possíveis (por exemplo, sim/não, verdadeiro/falso).
+
+### 3. **Dados Ordinais**
+Os dados ordinais representam categorias que possuem uma ordem ou classificação significativa, mas os intervalos entre as categorias não são necessariamente iguais. Exemplos incluem:
+- **Nível de escolaridade**: Ensino fundamental, médio, superior, pós-graduação.
+- **Classificações de satisfação**: Ruim, Regular, Bom, Excelente.
+
+Os dados ordinais ficam entre os numéricos e os categóricos, pois refletem algum tipo de medida ou hierarquia.
